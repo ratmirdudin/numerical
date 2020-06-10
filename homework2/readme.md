@@ -1,4 +1,4 @@
-# HOMEWORK1: Jacobi method, Zeidel method, Jacobi and zeidel methods to compare with numpy
+# HOMEWORK2: Jacobi method, Zeidel method, Jacobi and zeidel methods to compare with numpy
 ## Jacobi method
 It is solving linear system of equations by Gauss method.
 ### Launch
