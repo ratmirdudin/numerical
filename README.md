@@ -15,7 +15,7 @@ It is solving linear system of equations by iterative methods:
 It is interpolation:
 + Linear interpolation on uneven grid
 + Lagrange interpolation on uneven grid
-+ Spline interpolation on even grid
++ Spline interpolation on uniform grid
 ## Homework4
 It is solving of transfer and heat equations:
 + Transfer equation
