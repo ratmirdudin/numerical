@@ -1,4 +1,4 @@
-# HOMEWORK4: Gauss method, Cholesky method, Sweep method
+# HOMEWORK1: Gauss method, Cholesky method, Sweep method
 ## Gauss method
 It is solving linear system of equations by Gauss method.
 ### Launch
