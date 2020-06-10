@@ -1,5 +1,5 @@
 # Numerical Methods
-Language: **python3.**<br/>
+Programming language: **python3.**<br/>
 Homeworks for numerical methods.<br/>
 ## Homework1
 It is solving linear system of equations by direct methods:
