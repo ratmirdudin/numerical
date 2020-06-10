@@ -50,5 +50,5 @@ def animate(k):
 
 
 ani = animation.FuncAnimation(plt.figure(0), animate, frames=y.shape[0], interval=100)
-#ani.save('transfer.gif', 'animation.writer')
+#ani.save('transf_eq.gif', 'animation.writer')
 plt.show()
